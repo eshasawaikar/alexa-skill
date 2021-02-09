@@ -1,0 +1,34 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "गाली  दे दो",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "swear",
+          "slots": [],
+          "samples": [
+            "बदमाश"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "1"
+}
